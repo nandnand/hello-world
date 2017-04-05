@@ -1,2 +1,2 @@
 # hello-world
-It's programming and its about greetings...
+Saying Hello World in different ways.
